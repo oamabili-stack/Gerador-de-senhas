@@ -39,3 +39,92 @@ body{
     padding:24px;
     border-botton:6px solid var(-borda);
 }
+
+#campo-senha{
+    backgroud-color: var(--fundo-senha);
+    border: none;
+    color: var(--branco);
+    font-family: var(--roboto-mono);
+    font-size: 40px;
+    width: 70%
+
+
+#campo-senha:focus{
+    outline: none;
+
+.conteudo{
+    max-width: 1200px;
+    margin: 0 auto;
+
+    .parametro{
+        backgroud-color: var(--fundo-texto);
+        border: 2px solid var(--borda);
+        margin-top: 32px;
+        padding: 24px;
+
+    .parametro-titulo{
+        font-family: var(--roboto-mono);
+        font-size: 28px;
+
+
+        .parametro-senha__titulo{
+            font-size: 24px;
+
+
+        .parametro-coluna__senha{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+
+            .parametro-senha{
+                width: 50%;
+                margin: 0 auto;
+
+            .parametro-senha-botoes{
+                display: flex;
+                justify-content: center;
+
+                .parametro-senha__botao{
+                    backgroud-color: var(--fundo-texto);
+                    color: var(--branco);
+                    border: 2px solid var(--borda);
+                    pading: 24px:
+                font-size:24px;
+                    cursor: pointer;
+
+                    }
+
+                .parametro-senha_botao{
+                    pading: 24px;
+                    border-top: 2px solid var(--borda);
+                    border-bottom: 2px solid var(--borda);
+                    margin: 0;
+                    font-size:24px;
+
+                    }
+
+                label{
+                    font-size: 20px;
+                    } 
+                .checkbox{
+                    width: 20px;
+                    height: 20px;
+                    cursor: pointer;
+                    }
+
+                .forca{
+                    height: 30px;
+                    position: relative;
+                    bottom: 30px;
+
+                .fraca{
+                    whidht:25%;
+                    background-color: #E71B32
+
+                    
+        
+
+                    
+
+        
+                    
